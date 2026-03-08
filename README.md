@@ -7,7 +7,7 @@ This is Anonymous. A minimalist, monochrome, modern theme for your Omarchy setup
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/j4v3l/omarchy-anonymous-theme
+omarchy-theme-install https://github.com/MedKouriProgrammer/omarchy-anonymous-theme-.git
 ```
 
 ![Anonymous Omarchy Theme Screenshot](theme_anonymous.png)
